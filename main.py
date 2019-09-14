@@ -29,9 +29,8 @@ form = """
         <label for="rot">Rotate by:</label>
         <input id = "rot" type="text" name = "rot" value = 0 />
         <br>
-        <textarea  name = "text" >
-           {0}
-        </textarea>
+        <textarea  name = "text" >{0}</textarea>
+        
         </br>
         <br>
         <input type= "submit" />
